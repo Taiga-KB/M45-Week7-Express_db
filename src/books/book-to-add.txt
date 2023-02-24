@@ -1,0 +1,51 @@
+Body snippets:
+
+Base
+{
+    "title": "",
+    "author": "",
+    "genre": ""
+}
+=====Roald Dahl=====
+{
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "genre": "Childrens"
+}
+
+{
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "genre": "Childrens"
+}
+
+{
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "genre": "Childrens"
+}
+=====J. R. R. Tolkien=====
+{
+    "title": "Fellowship of the Ring",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantasy"
+}
+
+{
+    "title": "The Two Towers,
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantasy"
+}
+
+{
+    "title": "Return of the King",
+    "author": "J. R. R. Tolkien",
+    "genre": "Fantasy"
+}
+
+=====Other=====
+{
+    "title": "Shukokai Karate Kata",
+    "author": "David Alexander",
+    "genre": "Nonfiction"
+}
